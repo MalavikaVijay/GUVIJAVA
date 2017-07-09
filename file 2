@@ -1,0 +1,11 @@
+check if a given number is odd or even
+
+n = s.nextInt();
+        if(n % 2 == 0)
+        {
+            System.out.println("The given number "+n+" is Even ");
+        }
+        else
+        {
+            System.out.println("The given number "+n+" is Odd ");
+	}
